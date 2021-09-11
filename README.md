@@ -9,6 +9,10 @@ It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 - [Rhythm Agency Case Studies](https://rhythmagency.com/case-studies)
 - [QCPU Sakay](https://websakay.web.app/)
 
+## 🐫 Some side stuff that I like to share
+- [Cancit Panton](https://wuckyme.netlify.app/)
+- [Titos of Llano website](https://titos.netlify.app/)
+
 ## ⚡ Tech Stack
 - 🕸 HTML | CSS
 - 🌸 SCSS
