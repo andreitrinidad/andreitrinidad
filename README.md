@@ -2,7 +2,7 @@
 
 It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 
-## 🌐 Projects I worked on 
+## 🌐 Projects that I worked on 
 - [Giffords.org](https://giffords.org/)
 - [Ladera Sports Center](https://www.laderasc.com/)
 - [Allsup](https://www.allsup.com/)
