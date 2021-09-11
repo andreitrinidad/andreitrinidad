@@ -18,6 +18,13 @@ It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 - ☁ Firebase
 - 📧 Email templates (yes I do...)
 
+## ⚙ Uses
+- Loves to use both Mac and Windows machines
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [iTerm 2](https://iterm2.com/) is my terminal in Mac, [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) for Windows
+- [Adobe XD](https://www.adobe.com/sea/products/xd.html) - for some UI designing
+- [Microsoft Edge](https://www.microsoft.com/en-us/edge) (the chromium-based one) - is my go-to browser
+
 ## 📬 Find me everywhere
 - DeviantArt - [andreitrinidad](https://www.deviantart.com/andreitrinidad)
 - LinkedIn - [Andrei Trinidad](https://www.linkedin.com/in/andreitrinidad/)
