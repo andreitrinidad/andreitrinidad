@@ -16,6 +16,7 @@ It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 - 🐛 Basic Node.js
 - ⚛ React | React Native | Expo
 - ☁ Firebase
+- 📧 Email templates (yes I do...)
 
 ## 📬 Find me everywhere
 - DeviantArt - [andreitrinidad](https://www.deviantart.com/andreitrinidad)
