@@ -12,6 +12,7 @@ It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 ## 🐫 Some side stuff that I'd like to share
 - [Cancit Panton](https://wuckyme.netlify.app/)
 - [Titos of Llano website](https://titos.netlify.app/)
+- [Portfolio](https://myra-isidro.vercel.app/)
 
 ## ⚡ My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
