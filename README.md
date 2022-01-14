@@ -8,6 +8,8 @@ It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 - [Allsup](https://www.allsup.com/)
 - [Rhythm Agency Case Studies](https://rhythmagency.com/case-studies)
 - [QCPU Sakay](https://websakay.web.app/)
+- [All Smiles](https://www.dentalandbraces.com/)
+- [Rhythm Whitepaper Landing page](https://advice.rhythmagency.com/e-commerce-guide/)
 
 ## 🐫 Some side stuff that I'd like to share
 - [Cancit Panton](https://wuckyme.netlify.app/)
