@@ -11,6 +11,7 @@ It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 - [All Family Dental & Braces](https://www.dentalandbraces.com/)
 - [Rhythm Whitepaper Landing page](https://advice.rhythmagency.com/e-commerce-guide/)
 - [Civic Nation](https://civicnation.org/)
+- [When We All Vote](https://whenweallvote.org/)
 
 ## 🐫 Some side stuff that I'd like to share
 - [Cancit Panton](https://wuckyme.netlify.app/)
