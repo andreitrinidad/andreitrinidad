@@ -3,6 +3,7 @@
 It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 
 ## 🌐 Projects that I worked on 
+- [Simpli.fi](https://simpli.fi/)
 - [Giffords.org](https://giffords.org/)
 - [Ladera Sports Center](https://www.laderasc.com/)
 - [Allsup](https://www.allsup.com/)
