@@ -2,22 +2,25 @@
 
 It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 
-## 🌐 Projects that I worked on 
+## 🌐 Some projects that I worked on 
 - [Simpli.fi](https://simpli.fi/)
 - [Giffords.org](https://giffords.org/)
-- [Ladera Sports Center](https://www.laderasc.com/)
 - [Allsup](https://www.allsup.com/)
 - [Rhythm Agency Case Studies](https://rhythmagency.com/case-studies)
-- [QCPU Sakay](https://websakay.web.app/)
 - [All Family Dental & Braces](https://www.dentalandbraces.com/)
 - [Rhythm Whitepaper Landing page](https://advice.rhythmagency.com/e-commerce-guide/)
 - [Civic Nation](https://civicnation.org/)
 - [When We All Vote](https://whenweallvote.org/)
+- [ON_Discourse](https://ondiscourse.com/)
+- [Realclear Polling](https://www.realclearpolling.com/)
+- [Harris Williams](https://www.harriswilliams.com/)
+- [Scribe](https://www.scribemedical.org/)
 
 ## 🐫 Some side stuff that I'd like to share
 - [Cancit Panton](https://wuckyme.netlify.app/)
 - [Titos of Llano website](https://titos.netlify.app/)
 - [Someone else's portfolio](https://myra-isidro.vercel.app/)
+- [QCPU Sakay](https://websakay.web.app/)
 
 ## ⚡ My Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,8 +35,6 @@ It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-
 
 ## ⚙ Uses
 - Loves to use both Mac and Windows machines
