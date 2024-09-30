@@ -3,6 +3,8 @@
 It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 
 ## 🌐 Some projects that I worked on 
+- [RealClear Polling](https://www.realclearpolling.com/)
+- [Expedia - Landing pages](https://www.expedia.com/product/release/?linkId=100000219351728)
 - [Simpli.fi](https://simpli.fi/)
 - [Giffords.org](https://giffords.org/)
 - [Allsup](https://www.allsup.com/)
@@ -15,6 +17,7 @@ It's ya boi Andrei. I'm a Frontend Developer who also do some design stuff.
 - [Realclear Polling](https://www.realclearpolling.com/)
 - [Harris Williams](https://www.harriswilliams.com/)
 - [Scribe](https://www.scribemedical.org/)
+- [Harvard-Harris Poll](https://harvardharrispoll.com/)
 
 ## 🐫 Some side stuff that I'd like to share
 - [Cancit Panton](https://wuckyme.netlify.app/)
